@@ -1,4 +1,4 @@
-I'm Eyuel i am trying to learn everyting and my head is about to expload.
+I'm Eyuel.
 
 <!---
 Eyeyuel/Eyeyuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
